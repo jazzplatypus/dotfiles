@@ -1,0 +1,10 @@
+!urxvt rules
+!urxvt*transparent: true
+!urxvt*shading: 30
+URxvt*depth:32
+URxvt*background: rgba:0000/0000/0200/c800
+urxvt*scrollBar: false
+URxvt*font: xft:Consolas:size=8, xft:Inconsolata for Powerline
+
+! special
+*.foreground:   white
